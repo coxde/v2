@@ -46,7 +46,7 @@
     "menu.feed_entries": "文章",
     "menu.api_keys": "API 密钥",
     "menu.create_api_key": "创建一个新的 API 密钥",
-    "menu.shared_entries": "分享文章",
+    "menu.shared_entries": "已分享的文章",
     "search.label": "搜索",
     "search.placeholder": "搜索…",
     "pagination.next": "下一页",
